@@ -1,0 +1,100 @@
+[
+    {
+        "IBCID": "IBCOO1",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "Pumpstatus": false,
+        "Status": "CARREGANDO",
+        "Valvs": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "Volume": 200
+    },
+    {
+        "IBCID": "IBCOO2",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "Pumpstatus": false,
+        "Status": "CIP",
+        "Valvs": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "Volume": 200
+    },
+    {
+        "IBCID": "IBCOO3",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "Pumpstatus": false,
+        "Status": "PRODUZINDO",
+        "Valvs": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "Volume": 200
+    },
+    {
+        "IBCID": "IBCOO4",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "Pumpstatus": false,
+        "Status": "CONCLUIDO",
+        "Valvs": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "Volume": 200
+    },
+    {
+        "IBCID": "IBCOO5",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "Pumpstatus": false,
+        "Status": "CARREGANDO",
+        "Valvs": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "Volume": 200
+    },
+    {
+        "IBCID": "IBCOO6",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "Pumpstatus": false,
+        "Status": "ESVAZIANDO",
+        "Valvs": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "Volume": 200
+    },
+    {
+        "IBCID": "IBCOO7",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "Pumpstatus": false,
+        "Status": "NULL",
+        "Valvs": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "Volume": 200
+    }
+]

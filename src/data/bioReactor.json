@@ -1,0 +1,194 @@
+[
+    {
+        "Aerator": false,
+        "BioreactorID": "BIOO1",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "PH": 12,
+        "Pumpstatus": false,
+        "Status": "CIP",
+        "Step": [
+            2,
+            5
+        ],
+        "Temperature": 32,
+        "Timeleft": [
+            10,
+            22
+        ],
+        "Timetotal": [
+            48,
+            12
+        ],
+        "Valvs": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            2
+        ],
+        "Volume": 200
+    },
+    {
+        "Aerator": false,
+        "BioreactorID": "BIOO2",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "PH": 12,
+        "Pumpstatus": false,
+        "Status": "PRODUZINDO",
+        "Step": [
+            2,
+            5
+        ],
+        "Temperature": 32,
+        "Timeleft": [
+            10,
+            22
+        ],
+        "Timetotal": [
+            48,
+            12
+        ],
+        "Valvs": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            2
+        ],
+        "Volume": 200
+    },
+    {
+        "Aerator": false,
+        "BioreactorID": "BIOO3",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "PH": 12,
+        "Pumpstatus": false,
+        "Status": "CARREGANDO",
+        "Step": [
+            2,
+            5
+        ],
+        "Temperature": 32,
+        "Timeleft": [
+            10,
+            22
+        ],
+        "Timetotal": [
+            48,
+            12
+        ],
+        "Valvs": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            2
+        ],
+        "Volume": 200
+    },
+    {
+        "Aerator": false,
+        "BioreactorID": "BIOO4",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "PH": 12,
+        "Pumpstatus": false,
+        "Status": "CONCLUIDO",
+        "Step": [
+            2,
+            5
+        ],
+        "Temperature": 32,
+        "Timeleft": [
+            10,
+            22
+        ],
+        "Timetotal": [
+            48,
+            12
+        ],
+        "Valvs": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            2
+        ],
+        "Volume": 200
+    },
+    {
+        "Aerator": false,
+        "BioreactorID": "BIOO5",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "PH": 12,
+        "Pumpstatus": false,
+        "Status": "ESVAZIANDO",
+        "Step": [
+            2,
+            5
+        ],
+        "Temperature": 32,
+        "Timeleft": [
+            10,
+            22
+        ],
+        "Timetotal": [
+            48,
+            12
+        ],
+        "Valvs": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            2
+        ],
+        "Volume": 200
+    },
+    {
+        "Aerator": false,
+        "BioreactorID": "BIOO6",
+        "Level": 10,
+        "Organism": "BIOSCISMO",
+        "PH": 12,
+        "Pumpstatus": false,
+        "Status": "NULL",
+        "Step": [
+            2,
+            5
+        ],
+        "Temperature": 32,
+        "Timeleft": [
+            10,
+            22
+        ],
+        "Timetotal": [
+            48,
+            12
+        ],
+        "Valvs": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            2
+        ],
+        "Volume": 200
+    }
+]
